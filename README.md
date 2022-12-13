@@ -1,6 +1,6 @@
 # Maksim![рокпавпалы](https://user-images.githubusercontent.com/54744048/207257445-93761ea6-1b9d-44f9-827b-1392a20de83d.jpg)
 
-![N|Solid](https://static.wikia.nocookie.net/jojo/images/c/ce/Yoshikage_Kira_Original_Infobox_Manga.png/revision/latest?cb=20210226035503&path-prefix=ru)
+![изображение](https://static.wikia.nocookie.net/jojo/images/c/ce/Yoshikage_Kira_Original_Infobox_Manga.png/revision/latest?cb=20210226035503&path-prefix=ru)
 
 <!--Dayspedia.com widget--><iframe width='296' height='166' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjpmYWxzZSwidy0xMSI6dHJ1ZSwidy0xMyI6dHJ1ZSwidy0xNCI6dHJ1ZSwidy0xNSI6dHJ1ZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOnRydWUsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiIyNHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjE2Iiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MSwiYmdpbWFnZVNldCI6dHJ1ZSwidy0yMWMwIjoiI2ZmZmZmZiIsInctMCI6dHJ1ZSwidy0zIjp0cnVlLCJ3LTNjMCI6IiMzNDM0MzQiLCJ3LTNiMCI6IjEiLCJ3LTYiOiIjMzQzNDM0Iiwidy0yMCI6dHJ1ZSwidy00IjoiIzAwYmRiMCIsInctMTgiOnRydWUsInctd2lkdGgtMmMtMCI6IjMwMCIsInctMTE1IjpmYWxzZX0=&lang=ru&cityid=5720'></iframe><!--Dayspedia.com widget ENDS-->
 
