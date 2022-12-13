@@ -8,7 +8,7 @@
 
 <div class="nav">
 <div>
-<a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
+<a href="https://portal.tpu.ru/lyceum"><img src="999.png"></a>
 </div>
     
 <div>
