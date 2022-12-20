@@ -68,3 +68,4 @@
 ![изображение](https://user-images.githubusercontent.com/54744048/205867008-39babc5a-c08e-49a5-a30e-7d20aaed8d28.png)
 
 
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4115f036-5797-46a9-863e-2560f75b9455" id="bI6euyZCfZzg"></iframe>
